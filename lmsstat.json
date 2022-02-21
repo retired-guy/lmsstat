@@ -1,0 +1,56 @@
+{
+	"power":	1,
+	"playlist_timestamp":	1645401341.54365,
+	"duration":	378,
+	"mixer volume":	100,
+	"playlist mode":	"off",
+	"player_name":	"PiTouchMini",
+	"player_connected":	1,
+	"playlist_loop":	[{
+			"url":	"radioparadise://4-3.flac",
+			"coverart":	"0",
+			"artist":	"Enigma",
+			"duration":	"378",
+			"artwork_url":	"https://img.radioparadise.com/covers/l/B00003XB8K.jpg",
+			"album":	"The Screen Behind The Mirror",
+			"year":	"0",
+			"remote":	1,
+			"title":	"Push the Limits",
+			"buttons":	{
+				"rew":	0
+			},
+			"playlist index":	0,
+			"id":	"-1163321224",
+			"bitrate":	"820k VBR FLAC"
+		}],
+	"repeating_stream":	"1688",
+	"playlist_tracks":	1,
+	"seq_no":	0,
+	"rate":	1,
+	"playlist_cur_index":	"0",
+	"player_ip":	"192.168.68.111:41064",
+	"remoteMeta":	{
+		"id":	"-1163321224",
+		"title":	"Push the Limits",
+		"artist":	"Enigma",
+		"duration":	"378",
+		"coverart":	"0",
+		"artwork_url":	"https://img.radioparadise.com/covers/l/B00003XB8K.jpg",
+		"album":	"The Screen Behind The Mirror",
+		"bitrate":	"820k VBR FLAC",
+		"url":	"radioparadise://4-3.flac",
+		"remote":	1,
+		"year":	"0",
+		"buttons":	{
+			"rew":	0
+		}
+	},
+	"time":	0,
+	"digital_volume_control":	1,
+	"current_title":	"World/Etc Mix - FLAC Interactive",
+	"remote":	1,
+	"mode":	"stop",
+	"signalstrength":	0,
+	"playlist repeat":	0,
+	"playlist shuffle":	0
+}
